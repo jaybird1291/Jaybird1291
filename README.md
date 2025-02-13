@@ -10,6 +10,6 @@
   
 - 🚀 **Root-Me : https://www.root-me.org/Jaybird1291  
   
-- 🕵️‍♂️ **HackTheBox **: https://app.hackthebox.com/profile/1271052
+- 🕵️‍♂️ **HackTheBox** : https://app.hackthebox.com/profile/1271052
   
-- 🔍 **TryHackMe **: https://tryhackme.com/p/Jaybird1291
+- 🔍 **TryHackMe** : https://tryhackme.com/p/Jaybird1291
