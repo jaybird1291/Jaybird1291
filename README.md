@@ -8,7 +8,7 @@
   
 - 🛡️ **Cyberdefenders** : https://cyberdefenders.org/p/Jaybird1291#/overview
   
-- 🚀 **Root-Me : https://www.root-me.org/Jaybird1291  
+- 🚀 **Root-Me** : https://www.root-me.org/Jaybird1291  
   
 - 🕵️‍♂️ **HackTheBox** : https://app.hackthebox.com/profile/1271052
   
