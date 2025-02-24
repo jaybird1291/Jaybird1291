@@ -1,6 +1,6 @@
 ### 🌐 Mes Liens & Ressources
 
-- 🔐 **Blog Cyber** : https://jaybird1291.github.io/blog  
+- 🔐 **Blog Cyber** : https://jaybird1291.github.io/blog-cyber  
   
 - 🎌 **Blog Japonais** : https://jaybird1291.github.io/japanese/  
   
