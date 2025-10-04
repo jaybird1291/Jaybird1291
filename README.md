@@ -4,7 +4,7 @@
   
 - 🎌 **Blog Japonais** : https://jaybird1291.github.io/japanese/  
   
-- 💼 **LinkedIn** : https://www.linkedin.com/in/henri-chevalier-a3a044242/ 
+- 💼 **LinkedIn** : https://www.linkedin.com/in/bastien-l-a3a044242/
   
 - 🛡️ **Cyberdefenders** : https://cyberdefenders.org/p/Jaybird1291#/overview
   
